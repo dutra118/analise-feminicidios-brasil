@@ -32,8 +32,8 @@ https://public.tableau.com/app/profile/gustavo.dutra6688/viz/painel_feminicidio/
 
 Fonte dos dados
 
-SINESP - 
-LESFEM - 
+SINESP - Ministério da Justiça e Segurança Pública
+LESFEM - Laboratório de Estudos de Femincídio
 
 Observações
 
